@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/thiago-laurence-828bb0256/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
  </a>
- <a href="https://docs.google.com/document/d/1iC044-HbHOw2YnH9-HCcQAmlsRafxG1N/edit" target="_blank">
+ <a href="https://docs.google.com/document/d/1XAxO8wLj4Tjp1TZEmRAEqhrsriXFCK0zN5kTikzekEA/edit?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/CV-0A0A0A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Curriculum vitae" />
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
