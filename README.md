@@ -13,13 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hola 👋 Bienvenidos!</h1>
+<h1 align="left">Hola bienvenidos! 👋</h1>
 
 ###
 
-<p align="left">Mi nombre es Thiago Laurence y soy estudiante de Licenciatura en Sistemas en la Universidad Nacional de La Plata, Buenos Aires, Argentina.</p>
+<div align="center">
+ <p align="left">Mi nombre es <strong>Thiago Laurence</strong> y soy estudiante de <i>Licenciatura en Sistemas</i> en la <i>Universisdad Nacional de La Plata</i>, Buenos Aires, Argentina.</p>
+ <div align="right">
+  <img src="https://www.info.unlp.edu.ar/wp-content/uploads/2019/07/logoo-300x300.jpg" alt="Facultad de informática Logo" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/UNLP_Logo_%28cropped%29.svg" alt="UNLP Logo" width="50">
+ </div>
+</div>
 
-<center><img width="250" src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" alt="Coding gif" /></center>
+<div align="center"><img width="250" src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" alt="Coding gif" /></div>
 
 <p align="center">
  <a href="https://thiago-laurence.github.io/" target="blank">
@@ -51,15 +57,15 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">
 ✨ Me encanta resolver problemas
-<br>
+
 📚 Actualmente en 5to año "Licenciatura en sistemas"
-<!-- <br>
-🎯 Logros: ...
-<br>
-🎲 Fun fact: ... -->
-</p>
+
+🎲 Fun fact:
+<!-- 🎯 Logros: ... -->
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+– Martin Fowler
 
 
 <h2 align="left">Desarrollando con</h2>
