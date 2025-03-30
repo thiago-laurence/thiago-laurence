@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
- <p align="left">Mi nombre es <strong>Thiago Laurence</strong> y soy estudiante de <i>Licenciatura en Sistemas</i> en la <i>Universisdad Nacional de La Plata</i>, Buenos Aires, Argentina.</p>
+ <p align="left">Mi nombre es <strong>Thiago Laurence</strong> y soy estudiante de <i>Licenciatura en Sistemas</i> en la <i>Universidad Nacional de La Plata</i>, Buenos Aires, Argentina.</p>
  <div align="right">
   <img src="https://www.info.unlp.edu.ar/wp-content/uploads/2019/07/logoo-300x300.jpg" alt="Facultad de informática Logo" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/UNLP_Logo_%28cropped%29.svg" alt="UNLP Logo" width="50">
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ✨ Me encanta resolver problemas
 
-📚 Actualmente en 5to año "Licenciatura en sistemas"
+📚 Actualmente en 5to año "Licenciatura en Sistemas"
 
 🎲 Fun fact:
 <!-- 🎯 Logros: ... -->
