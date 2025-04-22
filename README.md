@@ -143,10 +143,10 @@ Here are some ideas to get you started:
 
   </div>
   <div align="center">
-
+  
+  <img src="https://velog.velcdn.com/images/junhok82/post/eaedbeb1-1208-41b2-9f69-117c1d1ead50/rest.png" height="40" alt="rest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="swagger logo"  />
-  <img src="https://hf-files-oregon.s3-us-west-2.amazonaws.com/hdpdigitalwatchdog_kb_attachments/2019/10-09/0d217f4e-a369-45ca-9c3f-b89e3de33624/image-20191009130528-1.png" height="40" alt="rest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
 
   </div>
 
