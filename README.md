@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ✨ Me encanta resolver problemas
 
-📚 Actualmente en 5to año "Licenciatura en Sistemas"
+📚 Técnico en programación - Actualmente en 5to año "Licenciatura en Sistemas".
 
 🎲 Fun fact:
 <!-- 🎯 Logros: ... -->
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 – Martin Fowler
 
 
-<h2 align="left">Desarrollando con</h2>
+<h2 align="left">Tecnologías utilizadas</h2>
 
 ###
 
