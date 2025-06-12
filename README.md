@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div align="center"><img width="250" src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" alt="Coding gif" /></div>
 
 <p align="center">
- <a href="https://devb.io/thiago-laurence?ref=modal" target="blank">
+ <a href="https://thiago-laurence.github.io/portfolio/" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio" />
  </a>
  <a href="https://www.linkedin.com/in/thiago-laurence-828bb0256/" target="_blank">
